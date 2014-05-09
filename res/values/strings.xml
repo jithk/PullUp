@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PullUp from FakeJap</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_launch_acitivity">PullUp Acitivity</string>    
+    <string name="settings_info">Select the default App to launch</string>
+
+</resources>
